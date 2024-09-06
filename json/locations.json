@@ -1,0 +1,29 @@
+[
+    {
+        "img" : "../img/locations/greenhaven.jpg",
+        "name" : "Green Haven",
+        "description" : "A quiant ocean side village in Roads County"
+    },
+    {
+        "img" : "../img/locations/SilverKeep.jpeg",
+        "name" : "Silver Keep",
+        "description" : "A beautiful radiant keep home to the queen of Autumvale on nearby regions Miirym"
+    },
+    {
+        "img" : "../img/locations/Mordenshire.png",
+        "name" : "Mordenshire",
+        "description" : "A dark victorian style city in the wetlands of Morden"
+    },
+    {
+        "img" : "../img/locations/Roads.jpg",
+        "name" : "Roads County",
+        "description" : "A green farm and forested area and the furthest point of Queen Miiryms rule. A connection point of nearbouring provences: Alchnee, Pinfir, Darkwood, and Morden "
+    
+    },
+    {
+        "img" : "../img/locations/Krandor.png",
+        "name" : "Krandor",
+        "description" : "A small village that was destroyed by the wolf lord under a full moon"
+    }
+
+]
